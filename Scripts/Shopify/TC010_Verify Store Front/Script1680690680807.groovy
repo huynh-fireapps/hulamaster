@@ -26,6 +26,7 @@ import org.openqa.selenium.WebDriver
 import org.openqa.selenium.chrome.ChromeDriver
 import com.kms.katalon.core.webui.driver.DriverFactory
 
+CustomKeywords.'excelkeyword.excel.updateValueToSheet'(GlobalVariable.excel_file_path, GlobalVariable.sheet_name, 4, store_name, 35,"test update file")
 
 def store_front_url = getStoreFrontUrl(store_name, raw_shopify_domain)
 def collection_page = getPage(store_front_url, "collections/all")
