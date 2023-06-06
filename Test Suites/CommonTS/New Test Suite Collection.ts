@@ -25,7 +25,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/CommonTS/TS008_Shopify_Verify_Store_Front</testSuiteEntity>
+         <testSuiteEntity>Test Suites/CommonTS/TS008_Shopify_Verify_Store_Front - 2</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/CommonTS/TS008_Shopify_Verify_Store_Front</testSuiteEntity>
+         <testSuiteEntity>Test Suites/CommonTS/TS008_Shopify_Verify_Store_Front - 3</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -45,7 +45,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/CommonTS/TS008_Shopify_Verify_Store_Front</testSuiteEntity>
+         <testSuiteEntity>Test Suites/CommonTS/TS008_Shopify_Verify_Store_Front - 4</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS008_Shopify_Verify_Store_Front</name>
+   <name>TS008_Shopify_Verify_Store_Front - 4</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,7 +10,7 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>12be74bc-2dd1-4ea1-ac41-7463354d6469</testSuiteGuid>
+   <testSuiteGuid>3d95501f-32c7-469f-ad91-7e56e74cf57e</testSuiteGuid>
    <testCaseLink>
       <guid>46157cc1-7353-40cb-99c3-a1535e55a61a</guid>
       <isReuseDriver>false</isReuseDriver>
@@ -21,7 +21,7 @@
          <id>5844ef1f-15b1-4870-b410-6f510345314b</id>
          <iterationEntity>
             <iterationType>SPECIFIC</iterationType>
-            <value>1</value>
+            <value>4</value>
          </iterationEntity>
          <testDataId>Data Files/UatData/AR-Basic-StoreData-UAT</testDataId>
       </testDataLink>
